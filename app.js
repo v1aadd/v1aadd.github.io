@@ -15,7 +15,7 @@ btn1.addEventListener("click", function(){
 		tg.MainButton.hide();
 	}
 	else {
-		tg.MainButton.setText("Вы выбрали первый товар");
+		tg.MainButton.setText("Перейти к оплате");
 		item = "1";
 		tg.MainButton.show();
 	}
